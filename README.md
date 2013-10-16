@@ -1,5 +1,6 @@
 DFRobot-Nixie-Clock
 ===================
+The project writeup and video are both at the DFRobot wiki: http://www.dfrobot.com/community/arduino-nixie-clock.html
 
 Arduino Nixie clock made with 4 Nixie modules from DFRobot. This project requires the following components:
 4 Nixie Modules from DFRobot (robotmesh.com in the U.S. for faster shipping times).  
