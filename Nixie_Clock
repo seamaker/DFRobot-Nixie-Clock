@@ -12,7 +12,10 @@
  * Email: weihong.guan@gmail.com
  *
  * Sublety tuning of the parameters and modification to work with 
- * a four Nixie setup by Bob Edmiston.  Note: this sketch does not set the time for the DS1307 clock on the TinyRTC module.
+ * a four Nixie setup by Bob Edmiston.  Note: this sketch does not set the time for the DS1307 clock on the 
+ * TinyRTC module.
+ * The project writeup and video are both at the DFRobot 
+ * wiki page: http://www.dfrobot.com/community/arduino-nixie-clock.html
  *
  * Pin Layout, right-side view, input from pins(male)
  *
